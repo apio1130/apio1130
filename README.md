@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![kjkim's github stats](https://github-readme-stats.vercel.app/api?username=apio1130&show_icons=true&theme=merko)
 <!--
 **apio1130/apio1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
