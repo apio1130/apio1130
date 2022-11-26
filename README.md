@@ -4,7 +4,7 @@
 
 ![kjkim's github stats](https://github-readme-stats.vercel.app/api?username=apio1130&show_icons=true&theme=merko&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apio1130&show_icons=true&theme=merko&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apio1130&show_icons=true&theme=merko&langs_count=8&layout=compact)
 
 <!--
 **apio1130/apio1130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
