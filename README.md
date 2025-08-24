@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome&fontAlign=25&fontAlignY=42)
 # 💫 About Me:
 Hi, I'm KiJun Kim
-- I’m currently working on SSG.COM Corp(2021 ~ now)
 
 # 💻 Tech Stack:
 ## Back-end
