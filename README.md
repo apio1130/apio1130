@@ -37,6 +37,7 @@ Hi, I'm KiJun Kim
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/argocd-EF7B4D.svg?style=for-the-badge&logo=Argo&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=apio1130&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
