@@ -39,10 +39,14 @@ Hi, I'm KiJun Kim
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/argocd-EF7B4D.svg?style=for-the-badge&logo=Argo&logoColor=white)
 
-<!--
+<--
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=apio1130&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=apio1130&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](./profile/stats.svg?username=apio1130&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
+![](./profile/top-langs.svg?username=apio1130&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 -->
 
 ---
